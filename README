@@ -1,1 +1,52 @@
+SETTING UP new type styles in a new InDesign project can be tiresome. Not only setting the general design but also taking time to work on the details. Building up a full set of styles for type, tables and picture and text-objects.
+So here's a first effort to make life a bit easier for you.
+
+I have taken care to observe typographic rules and it should be helpful for beginners and pros alike.
+
 The template is set in Times and Helvetica (you provide the actual design and layout yourself). And no adjustments have been made on the baseline grid even though all styles are aligned to the document baseline grid.
+And, yes, this is just a beta version.
+
+Have fun using it :)
+
+How To Use:
+- Open a New document in InDesign CS InDesign (v4-v6)
+- From the Paragraph Styles Menu - Choose "Load All Text Styles…”
+- Select the TypeTemplate document
+- Uncheck the [Basic Paragraph] style and OK
+
+To set the Table of Contents styles:
+- Open "Layout / Table of Contents Styles..."
+- Open Template document
+- Select the "TOC Type Template" set and OK
+
+To set the Objects styles:
+- From Object Styles Menu choose "Load Object Styles..."
+- Select the Type Template document
+- Uncheck the styles you don't want and/or click OK
+
+
+Features:
+- Styles labeled with HTML style names
+- Headlines H1 to H5 + numbered versions
+- Body text "p" with indent and Title letter styles
+- Intro text
+- 2 different list styles. Bullet and numbered
+- Footnote function with style
+- Page number function implemented
+- 3 different table styles. Black, gray and white
+- Address style. Headline and address lines
+- Content list styles with easy markup for the Table of Content function
+- Picture frame styles
+- Margin text style
+- Character styles: Bold, italic, Caps (when available)
+... and more
+
+Known issues and some ideas:
+- Splitting type styles and object styles into different documents.
+- Work on the table designs.
+
+Fixed issues:
+- Removed unwanted Plug-in requirements
+- Fixed Table of contents style quirks
+
+
